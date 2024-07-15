@@ -18,6 +18,6 @@ public class Prog02 {
 		{
 			System.out.println("Odd number");
 		}
-		sc.close();;
+		sc.close();
 	}
 }
